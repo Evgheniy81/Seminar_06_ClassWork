@@ -5,7 +5,7 @@
 Теорема о неравенстве треугольника: каждая сторона треугольника 
 меньше суммы двух других сторон.
 */
-Console.Clear();
+
 int GetNumber(string description){
 
     int number;
